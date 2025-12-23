@@ -1,7 +1,7 @@
-#multithread-api-performance
+# multithread-api-performance
 Spring Boot Microservice | Multithreading Hands-On Example | Improve API Performance
 
-#api-performance-demo
+# api-performance-demo
 DB-SCHEMA
 
 CREATE TABLE category ( id bigint PRIMARY KEY, name varchar(255), type varchar(255), status varchar(255) );
